@@ -1,4 +1,4 @@
-# WASDBox
+# WASDbox
 Based on the Flatbox Rev 5 by jfedor2 which can be located at https://github.com/jfedor2/flatbox/tree/master/hardware-rev5
 
 Will probably make a new version at some point that keeps the lower button from the original Flatbox with the new layout, moving one of the 8 rightmost buttons over, it wont replace this, but will be an option to those who want it
